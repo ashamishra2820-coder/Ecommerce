@@ -1,0 +1,24 @@
+/* == Bootstrap == */
+@import url(bootstrap.min.css);
+
+/* == Fontawesome icon == */
+@import url(fortAwesome.css);
+
+/* == Select2 == */
+@import url(select2.css);
+
+/* == swiper == */
+@import url(swiper-bundle.min.css);
+
+/* == MeanMenu == */
+@import url(meanmenu.min.css);
+
+/* == MeanMenu == */
+@import url(magnific-popup.css);
+
+
+/* == Lenis == */
+@import url(lenis.css);
+
+/* == flatpickr == */
+@import url(flatpickr.min.css);
