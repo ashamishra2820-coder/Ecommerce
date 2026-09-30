@@ -82,7 +82,7 @@ The complete project explanation video is available in the Google Drive folder.
 
 The video explains the project structure, technologies used, features, and overall working of the E-Commerce Website.
 
-🎬 **[Watch Project Explanation Video](https://drive.google.com/drive/folders/1pDdxUTz3S_JD9KJeSEel2glBIn5vpy7a?usp=sharing)**
+🎬 **[Watch Project Explanation Video](https://drive.google.com/file/d/1-PYTPftSEveVxkp4NQcJx4znNVf39bO7/view?usp=sharing)**
 
 ## 👩‍💻 Developer
 
